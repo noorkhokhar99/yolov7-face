@@ -16,29 +16,8 @@ python detect.py --weights weights/yolov7-tiny-face.pt --view-img
 ```
 
 
-### Export
 
-export to onnx and torchscript:
-
-```
-python export.py --weights weights/yolov7-tiny-face.pt
-```
-
-
-#### Dataset
-
-[WiderFace](http://shuoyang1213.me/WIDERFACE/)
-
-[yolov7-face-label](https://drive.google.com/file/d/1FsZ0ACah386yUufi0E_PVsRW_0VtZ1bd/view?usp=sharing)
-
-#### Test
-
-![](data/images/result.jpg)
-
-
-#### Demo
-
-* [ncnn_Android_face](https://github.com/FeiGeChuanShu/ncnn_Android_face)
+<img src="https://github.com/noorkhokhar99/wheat-detection-yolov5/blob/main/Screen%20Shot%201444-04-01%20at%209.01.52%20PM.png">
 
 #### References
 
