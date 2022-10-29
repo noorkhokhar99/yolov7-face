@@ -17,7 +17,7 @@ python detect.py --weights weights/yolov7-tiny-face.pt --view-img
 
 
 
-<img src="https://github.com/noorkhokhar99/wheat-detection-yolov5/blob/main/Screen%20Shot%201444-04-01%20at%209.01.52%20PM.png">
+<img src="https://github.com/noorkhokhar99/yolov7-face/blob/main/Screen%20Shot%201444-04-03%20at%209.54.24%20PM.png">
 
 #### References
 
